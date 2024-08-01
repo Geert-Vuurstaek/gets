@@ -1,4 +1,50 @@
-{
-  "id": 1,
-  "title": "bonjour"
-}
+[
+    {
+        "name": "Antony",
+        "avatar": "assets/student1/avatar_1.jpeg",
+        "review": "Sunny Meadows Farm is a delightful place to visit. The staff is friendly and the produce is fresh.",
+        "rating": 5
+    },
+    {
+        "name": "Eduard",
+        "avatar": "assets/student1/avatar_2.jpeg",
+        "review": "I had a great time at Sunny Meadows Farm. The animals are well cared for and the atmosphere is relaxing.",
+        "rating": 4
+    },
+    {
+        "name": "Robin",
+        "avatar": "assets/student1/avatar_3.jpeg",
+        "review": "Sunny Meadows Farm has a beautiful landscape and a variety of activities for all ages.",
+        "rating": 5
+    },
+    {
+        "name": "Lien",
+        "avatar": "assets/student1/avatar_4.jpeg",
+        "review": "A wonderful place to spend a day with family. The kids loved the petting zoo and the hayrides.",
+        "rating": 4
+    },
+    {
+        "name": "Lisa",
+        "avatar": "assets/student1/avatar_5.jpeg",
+        "review": "The farm-to-table experience at Sunny Meadows Farm is amazing. The food is delicious and fresh.",
+        "rating": 5
+    },
+    {
+        "name": "Anabel",
+        "avatar": "assets/student1/avatar_6.jpeg",
+        "review": "Sunny Meadows Farm is a peaceful retreat from the city. I enjoyed the guided tours and the fresh air.",
+        "rating": 4
+    },
+    {
+        "name": "Rick",
+        "avatar": "assets/student1/avatar_7.jpeg",
+        "review": "A nice place to visit on weekends. The farmer's market has a great selection of organic produce.",
+        "rating": 4
+    },
+    {
+        "name": "Sean",
+        "avatar": "assets/student1/avatar_8.jpeg",
+        "review": "Sunny Meadows Farm offers a great escape into nature. The hiking trails are well maintained.",
+        "rating": 5
+    }
+]
