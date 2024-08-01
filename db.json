@@ -2,7 +2,7 @@
     "customers": [
     {
         "name": "Antony",
-        "avatar": "../assets/student1/avatar_1.jpeg",
+        "avatar": "assets/avatar_1.jpeg",
         "review": "Sunny Meadows Farm is a delightful place to visit. The staff is friendly and the produce is fresh.",
         "rating": 5
     },
