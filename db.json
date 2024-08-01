@@ -1,4 +1,5 @@
-[
+{ 
+    "customers": [
     {
         "name": "Antony",
         "avatar": "assets/student1/avatar_1.jpeg",
@@ -28,5 +29,24 @@
         "avatar": "assets/student1/avatar_5.jpeg",
         "review": "The farm-to-table experience at Sunny Meadows Farm is amazing. The food is delicious and fresh.",
         "rating": 5
+    },
+    {
+        "name": "Anabel",
+        "avatar": "assets/student1/avatar_6.jpeg",
+        "review": "Sunny Meadows Farm is a peaceful retreat from the city. I enjoyed the guided tours and the fresh air.",
+        "rating": 4
+    },
+    {
+        "name": "Rick",
+        "avatar": "assets/student1/avatar_7.jpeg",
+        "review": "A nice place to visit on weekends. The farmer's market has a great selection of organic produce.",
+        "rating": 4
+    },
+    {
+        "name": "Sean",
+        "avatar": "assets/student1/avatar_8.jpeg",
+        "review": "Sunny Meadows Farm offers a great escape into nature. The hiking trails are well maintained.",
+        "rating": 5
     }
 ]
+}
